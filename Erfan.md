@@ -1,15 +1,11 @@
-0: Intro of the Mikrotik
-1 : what is vpn && vpn for ? && portocols 
-- Portocols models 
-	-types 
-	examples 
-	goods and bads 
+0: Intro of the MikroTik
 
+1 : what is VPN && VPN for ? && protocols 
+- Protocols models 
+	- types 
+	- examples
+	- pros and cons
 
 3: In the end 
-	-Real Examples
-	-Web server && dns server 
-
-
-
- 
+	- Real Examples
+	- Web server && DNS server 
