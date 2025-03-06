@@ -1,0 +1,8 @@
+**Multi Protocol Label Switching (MPLS)**
+## What is **MPLS**?
+
+MPLS (Multi Protocol Label Switching) is a technology that uses a **labeling mechanism** to switch data packets in a network. When a packet enters the MPLS network, it is labeled based on its destination IP address. Throughout its journey, the packet is directed using this label at Layer 2, allowing it to reach its destination. MPLS does not fit neatly into a specific layer of the OSI model; it operates **between Layer 2 (Data Link) and Layer 3 (Network)**, which is why it is often referred to as a **Layer 2.5** protocol.
+
+As mentioned, MPLS uses **labels on packets**. These labels are distributed among routers, allowing them to create a map of the network's labels. The labels are attached to IP packets, **enabling routers to send packets based on these labels without considering the IP address.** In MPLS, packets are sent using label switching instead of IP switching.
+
+Label switching **is not a new technology**; it has been used in Frame Relay and ATM networks to send frames and cells. In Frame Relay and ATM, the label **changes** at each hop in the network, which is a key difference from sending IP packets. When a router sends an IP packet, it does **not change** the destination address. In reality, MPLS labels are used to send packets, rather than relying on the IP address.
