@@ -1,3 +1,51 @@
+## What is MikroTik?
+
+**MikroTik** is the name of a company that produces products related to computer networking. **MikroTik** is based on Linux and, when installed on dedicated hardware like RouterBOARD or x86-based computers, turns the hardware into a network router with the same features. The company initially focused on writing software for 32-bit computer hardware but gradually shifted towards producing networking products.
+
+## Applications and Advantages of MikroTik Routers:
+
+You might be wondering where **MikroTik** is used! Let me explain:
+
+- **Routing**
+
+Routing with **MikroTik** is easier and faster.
+
+- **Firewall**
+
+MikroTik also includes a firewall feature, allowing you to restrict incoming and outgoing network ports, which enhances network security.
+
+- **DHCP Server**
+
+With **DHCP servers**, you can assign a unique IP address to each system. **MikroTik routers** support this capability.
+
+- **Wireless**
+
+Various wireless technologies are supported by MikroTik, and I recommend exploring this feature.
+
+- **Load Balancing**
+
+A **load balancer** helps maintain network stability, allowing you to use two internet service networks simultaneously. By connecting a second internet service to the network, it prevents internet outages and interruptions.
+
+- **VPN (Virtual Private Network)**
+
+The **MikroTik operating system** uses various VPN methods to create secure connections.
+
+- **MikroTik Hot Spot Gateway**
+
+This feature allows for public network connections without the need for software installation or network configuration. With hot spot gateways, you can set up a login and authentication page for each separate network, providing better management of users at the network level.
+
+- **MPLS (Multi Protocol Label Switching)**
+
+MPLS is a technique that replaces traditional IP addressing methods for fast routing and shaping traffic flows in the network.
+
+## What are the Disadvantages of MikroTik?
+
+In general, MikroTik routers do not have significant issues, but it is important to note that:
+
+- MikroTik devices are not upgradable.
+
+--- 
+
 - [ ] 0: Intro of the MikroTik (**T**)
 
 - [ ] 1 : what is VPN && VPN for ? && protocols 
@@ -10,54 +58,4 @@
 	- Real Examples
 	- Web server && DNS server 
 
-
---- 
-
-## میکروتیک چیست؟
-
-**میکروتیک** نام شرکتی که محصولات مرتبط با شبکه های کامپیوتری تولید می کنه. **MikroTik**  مبتنی بر لینوکس تهیه شده و با نصب روی سخت افزار اختصاصی Router BOARD یا رایانه های مبتنی بر استاندارد x86 سخت افزار رو به یک روتر شبکه  با همون ویژگی ها تبدیل می‌کنه.
-کار این شرکت در ابتدا نوشتن نرم افزار برای سخت افزار های کامپیوتر های 32 بیتی بود که کم کم به سمت تولید محصوات شبکه سوق پیدا کرد.
-
-## کاربرد ها و مزایای روتر میکروتیک:
-
-حالا ممکنه این سوال براتون پیش بیاد که **میکروتیک** کجا استفاده میشه!؟ در ادامه‌بهتون توضیح میدم..
-
-- روتینگ **Routing**
-
-مسیریابی با استفاده از MICROTIKE راحت تر، سریع تر انجام می شه.
-
-- فایروال **Firewall**  
-
-دیوار آتش یا همون فایروال هم در کاربردهای میکروتیک وجود داره و پیرو این موضوع امکان محدود کردن پورت‌های ورودی و خروجی شبکه با فایروال فراهم میشه و در نتیجه امنیت شبکه بالا میره
-
-- دی‌اچ‌سی‌پی‌ سرور **[DHCP Server](DHCP)**
-
-با استفاده از **سرورهای DHCP** می شه برای هر سیستم یک IP اختصاصی تعریف کرد **روتر میکروتیک** از این قابلیت هم پشتیبانی می کنه.
-
-- وایرلس **Wireless**
-
-انواع تکنولوژی بی سیم در میکروتیک پشتیبانی می شه و در صورت تمایل توصیه می کنم
-
-- لود‌ بالانسینگ **Load Balancing**  
-
-**لود بالانسر** کمک می کنه تا شبکه پایداری داشته باشید و به وسیله اون می تونید از دو شبکه سرویس دهی اینترنت بصورت همزمان استفاده کنید و با برقراری اتصال سرویس اینترنت دوم به شبکه،  از قطع اینترنت و ایجاد وقفه جلوگیری میکنه.
-
-- وی‌پی‌ان **VPN (Virtual Private Network)**
-
-**سیستم عامل میکروتیک** از روش های مختلف VPN برای ایجاد اتصالات ایمن استفاده می کنه.
-
-- هات‌اسپات گیت‌وی **MikroTik Hot Spot Gateway**  
-
-زمینه برقراری هرگونه اتصال به شبکه عمومی بدون نیاز به نصب نرم افزار و یا پیکربندی شبکه فراهم می کنه.  به کمک gateway های هات اسپات شما میتوانید برای هرشبکه مجزا یک صفحه ورود و اعتبارسنجی قرار داده و در سطح شبکه مدیریت دقیق تری بر روی کاربران  داشته باشید.
-
-- ام‌پی‌ال‌اس [**MPLS**](MPLS)
-
-مخفف Multi Protocol Label Switching است. تکنیک جایگزین روش های سنتی IP دادن و برای مسیریابی سریع و شکل‌دادن جریان‎های ترافیکی در شبکه  از اون استفاده می شه.
-
-## **معایب MikroTik چیست؟**
-
-به طور کلی روتر میکروتیک مشکل خاصی نداره اما لازمه بدونیم که :
-
-- دیوایس میکروتیک قابل ارتقا نیستش.
-  
   
