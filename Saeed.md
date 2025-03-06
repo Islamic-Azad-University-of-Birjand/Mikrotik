@@ -117,11 +117,10 @@ The advantage of this type of VPN access is greater efficiency and universal acc
 - **Trojan**: Another protocol V2Ray supports, which mimics normal HTTPS traffic for better concealment.
 
 
-1 : what is VPN && VPN for ? && protocols 
-- Protocols models 
-	- types 
-	- examples 
-	- pros and cons
+
+# Mikrotik ! And Router OS 
+
+
 
 2: Setup vpns on Mikrotik
 	- Protocols
