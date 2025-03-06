@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## What is Vpn ?
 
 	VPN stands for "Virtual Private Network"
@@ -117,15 +118,19 @@ The advantage of this type of VPN access is greater efficiency and universal acc
 - **Trojan**: Another protocol V2Ray supports, which mimics normal HTTPS traffic for better concealment.
 
 
+1 : what is VPN && VPN for ? && protocols 
+- Protocols models 
+	- types 
+	- examples 
+	- pros and cons
 
 2: Setup vpns on Mikrotik
-	-Protocols
-		openVpn,PPTP,L2TP
-	-Firewall
-	-ServerSide
+	- Protocols
+		openVpn, PPTP, L2TP
+	- Firewall
+	- Server Side
 
 3: In the end 
-	-Real Examples
-	-Web server && dns server 
-
+	- Real Examples
+	- Web server && DNS server 
 
