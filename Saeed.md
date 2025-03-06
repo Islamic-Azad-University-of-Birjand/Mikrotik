@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## What is Vpn ?
 
 	VPN stands for "Virtual Private Network"
