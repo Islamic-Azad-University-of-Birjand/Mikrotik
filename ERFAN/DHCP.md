@@ -1,4 +1,4 @@
-**Dynamic Host Configuration Protocol (DHCP)**
+[**Dynamic Host Configuration Protocol (DHCP)**](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
 ## What is a DHCP Server?
 
 A DHCP server is a network management tool that automatically assigns valid IP addresses to devices and computers connecting to the network without requiring constant intervention from an administrator. The DHCP server stores the IP information of clients, preventing the allocation of duplicate IP addresses, and ensures that valid and unique IP addresses are assigned.
