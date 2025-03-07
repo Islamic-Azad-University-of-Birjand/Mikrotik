@@ -17,7 +17,7 @@ Routing with **MikroTik** is easier and faster.
 
 MikroTik also includes a firewall feature, allowing you to restrict incoming and outgoing network ports, which enhances network security.
 
-- **[DHCP Server](DHCP)**
+- **[DHCP Server](./DHCP.md)**
 
 With **DHCP servers**, you can assign a unique IP address to each system. **MikroTik routers** support this capability.
 
@@ -37,7 +37,7 @@ The **MikroTik operating system** uses various VPN methods to create secure conn
 
 This feature allows for public network connections without the need for software installation or network configuration. With hot spot gateways, you can set up a login and authentication page for each separate network, providing better management of users at the network level.
 
-- **[MPLS](MPLS) (Multi Protocol Label Switching)**
+- **[MPLS](./MPLS.md) (Multi Protocol Label Switching)**
 
 MPLS is a technique that replaces traditional IP addressing methods for fast routing and shaping traffic flows in the network.
 
