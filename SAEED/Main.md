@@ -122,12 +122,6 @@ The advantage of this type of VPN access is greater efficiency and universal acc
 
 
 
-2: Setup vpns on Mikrotik
-	- Protocols
-		openVpn, PPTP, L2TP
-	- Firewall
-	- Server Side
-
 3: In the end 
 	- Real Examples
 	- Web server && DNS server 

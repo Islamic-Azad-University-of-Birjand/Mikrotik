@@ -1,9 +1,3 @@
 {
-<<<<<<< HEAD
-  "vimMode": false,
-  "rightToLeft": true
-=======
-  "vimMode": true,
-  "rightToLeft": false
->>>>>>> e10330feda9b8654897e6d8ab6bce951ef9669bc
+  "vimMode": true
 }

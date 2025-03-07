@@ -1,11 +1,19 @@
-# قوانین ارائه 
+آشنایی با Mirkotik و VPN 
 
-نحوه ارائه را بسته به اینکه تئوری و یا عملی است با P و یا T نشان می‌دهیم.
+ارائه دهندگان :
+- [سعید](https://github.com/saeed0920)
+- [عرفان](https://github.com/ERFouX)
 
-T || P
-T == Theory
-P == Present
+چیا گفتیم : 
+- تعاریف پایه ای شبکه
+- اصلا Mikrotik چه شرکتی هستش و چی تولید میکنن ؟!
+- آشنایی با انواع حالت هاو پروتوکل های VPN 
 
-یه سری از مطالب به صورت اشتراکی هستند و تقسیم شدند
-در نتیجه باید توسط هر نفر چک شود و مطالعه شود
 
+
+
+
+منابع :
+[What is VPN](https://www.kaspersky.com/resource-center/definitions/what-is-a-vpn)
+[What is Mikrotik](https://mikrotik.com/aboutus)
+[Configuration of Mikrotik](https://help.mikrotik.com/docs/spaces/ROS/pages/328155/Configuration+Management#ConfigurationManagement-Overview)
